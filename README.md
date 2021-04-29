@@ -3,7 +3,7 @@ My name is Shavana, but I am also called Shavy, Shav or Shavs (for short!)
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on projects to upskill on existing and new programming languages.
 - 🌱 I’m currently learning Python and JavaScript.
-- ⚡ Fun fact: Outside from the working and studying, I like to express my fruit bat alter ego by doing circus arts weekly 🤸🏾‍♀️
+- ⚡ Fun fact: Outside from the working and studying, I like to express my fruit bat alter ego by doing circus arts weekly 🦇
 - 👩🏾‍💻 Bits and bobs: Bird watcher, Aerialist, Linguist, Yogi, Cat lover, Digital nerd, Latin dancer with the constant travel bug.
 - 📫 How to reach me: Connect either on LinkedIn: https://www.linkedin.com/in/shavana-peynado-a22a921a2 or Instagram: sxpydo
 
