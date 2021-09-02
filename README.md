@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Shavana, but I am also called Shavy, Shav or Shavs (for short!)
+My name is Shavana, but you can call me Shavy, Shav or Shavs (for short!)
 - 😄 Pronouns: she/her
 - Personality type: INFJ-T
 - 🔭 I’m currently working on projects to upskill on existing and new programming languages.
