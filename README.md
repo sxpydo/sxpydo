@@ -1,15 +1,15 @@
 ### Hi there 👋 
-My name is Shavana, but you can call me Shavy, Shav or Shavs (for short!)
+My name is Shavana, but you can call me either Shavy / Shav / Shavs
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on projects to upskill on existing and new programming languages.
-- 🌱 I’m currently learning Vanilla JavaScript and how to Cross stitch outside the tech world.
-- ⚡ Fun fact: Outside from the working and studying, I like to express my  innerfruit bat alter ego by doing circus arts weekly
-- 👩🏾‍💻 Bits and bobs: Aerialist, bird watcher, Cat lover, Latin dancer, Wanderlust and thrill seeker.
-- 📫 How to reach me: Connect either on LinkedIn: https://www.linkedin.com/in/shavana-peynado-a22a921a2 or Instagram: sxpydo
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning React.js and how to Cross-stitch!
+- ⚡ Fun fact: I am a part-time aerialist specialising in Aerial Hoop
+- 👩🏾‍💻 Hobbies: Bird watcher, learning languages (spoken and tech), yoga, outdoor walks, Latin dance, Photography and Aerial fitness
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado-a22a921a2 or Instagram: sxpydo
 
 🔨 Improvements, advice and feedback appreciated! 🔨
 
-Meanwhile, stay postitive and be kind 🌞
+Meanwhile, stay positive and be kind 🌞
 
 <!--
 **sxpydo/sxpydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
