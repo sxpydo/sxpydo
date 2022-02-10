@@ -1,8 +1,8 @@
 ### Hi there 👋 
 My name is Shavana, but you can call me either Shavy / Shav / Shavs
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning Databases and how to Cross-stitch!
+- 🔭 I’m currently working on my personal project and re-building my portfolio
+- 🌱 I’m currently learning MongoDB and how to Cross-stitch!
 - ⚡ Fun fact: I am a part-time aerialist specialising in Aerial Hoop
 - 👩🏾‍💻 Hobbies: Bird watching, Nature walks, Dance, Yoga, Swimming, Languages, Reading and aerial fitness.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado-a22a921a2 or Instagram: sxpydo
