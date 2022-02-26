@@ -5,7 +5,7 @@ My name is Shavana, but you can call me either Shavy / Shav / Shavs
 - 🌱 I’m currently learning MongoDB and how to Cross-stitch!
 - ⚡ Fun fact: I am a part-time aerialist specialising in Aerial Hoop
 - 👩🏾‍💻 Hobbies: Bird watching, Nature walks, Dance, Yoga, Swimming, Languages, Reading and aerial fitness.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado-a22a921a2 or Instagram: sxpydo
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram: sxpydo
 
 🔨 Improvements, advice and feedback appreciated! 🔨
 
