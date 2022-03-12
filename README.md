@@ -1,10 +1,10 @@
 ### Hi there 👋 
 My name is Shavana, but you can call me either Shavy / Shav / Shavs
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on my personal project and re-building my portfolio
-- 🌱 I’m currently learning MongoDB and how to Cross-stitch!
+- 🔭 I’m currently working on my first MERN stack project
+- 🌱 I’m currently learning MongoDB and embroidery - when off the screens!
 - ⚡ Fun fact: I am a part-time aerialist specialising in Aerial Hoop
-- 👩🏾‍💻 Hobbies: Bird watching, Nature walks, Dance, Yoga, Swimming, Languages, Reading and aerial fitness.
+- 👩🏾‍💻 Hobbies: Getting lost in a book, hiking in the middle of nowhere, immersing myself to nature and Bird-watching
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram: sxpydo
 
 🔨 Improvements, advice and feedback appreciated! 🔨
