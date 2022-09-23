@@ -1,13 +1,23 @@
-### Hi there 👋 
-My name is Shavana, but you can call me either Shavy / Shav / Shavs
-- 😄 Pronouns: she/her
-- 🔭 I’m currently working on updating my portfolio
-- 🌱 I’m currently learning Python and embroidery on my screen breaks!
-- ⚡ Fun fact: I can speak 5 languages!
-- 👩🏾‍💻 Hobbies: Birdwatching, Bachata, Aerial Hoop, Reading, Swimming and anything outdoors!
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram: sxpydo
+### Hi there, I'm Shav 👋 
 
-🔨 Improvements, advice and feedback appreciated! 🔨
+I am an Associate Developer who works with MERN stack (Reactjs, Node.js and MongoDB) and curious about Cyber Security, #TechForGood and Data Analytics. I am very passionate about giving back to the community by being a Teaching Assistant with Black Codher Bootcamp and advocating for equal and equitable representation in technology. 🤎 
+
+#### 🔭 I’m currently working on updating my portfolio using Reactjs
+        🌱 I’m currently learning Python and SQL outside of work hours!
+
+#### 💃 When I'm not coding you can find me:
+
+* _Birdwatching from my bedroom or kitchen window_ 🐦
+* _Catching a flight to my next destination on my wishlist_ ✈️
+* _Babbling in French or Spanish at a language exhange_ 
+* _Living in my inner mermaid at my local swimming pool_ 🧜🏾‍♀️
+* _Dancing the evening away to Romeo Santos_ 💃🏾
+* _Chilling with the neighbours cats_ 🐈🐈‍⬛
+* _Catching up on my crafts_ 🎨🧵
+* _Walking, hiking, being immersed with Nature_ 🍃
+
+
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram: sxpydo
 
 Meanwhile, stay positive and be kind 🌞
 
