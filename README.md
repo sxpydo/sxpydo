@@ -1,17 +1,16 @@
 ### Hi there, I'm Shav 👋 
 
-I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) with the curiousity of learning about Cyber Security and Data Analytics. I am very passionate about #TechForGood giving back to the community by being a Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
+I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) whilst learning React Native and TypeScript, with a curiousity for Cyber Security and UX/UI. I am very passionate about #WomeninTech, #TechForGood giving back to the community by being a Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
 
 #### 🔭 I’m currently working on updating my portfolio using Reactjs
         🌱 I’m currently working towards certifications in PSM 1 and Data Analytics
 
 #### 💃 When I'm not coding you can find me:
 
-* _Birdwatching from my bedroom or kitchen window_ 🐦
+* _Birdwatching from my living room window_ 🐦
 * _Living the circus life as a part time Aerialist_ 🤸🏾‍♂️
 * _Catching a flight to my next destination on my wishlist_ ✈️
 * _Babbling in French or Spanish at a language exchange_ 
-* _Living in my inner mermaid at my local swimming pool_ 🧜🏾‍♀️
 * _Getting lost in a book_ 📚
 * _Thinking of my new crafts project_ 🧶
 * _Dancing the evening away to Romeo Santos_ 💃🏾
@@ -19,7 +18,7 @@ I am a Software Developer with [AND Digital](https://www.and.digital) who works 
 * _Walking, hiking, being immersed with Nature_ 🍃
 
 
-📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram: sxpydo
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram & Twitter: sxpydo
 
 Meanwhile, stay positive and be kind 🌞
 
