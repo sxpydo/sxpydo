@@ -3,7 +3,7 @@
 I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) whilst learning React Native and TypeScript, with a curiousity for Cyber Security and UX/UI. I am very passionate about #WomeninTech, #TechForGood giving back to the community by being a Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
 
 #### 🔭 I’m currently working on updating my portfolio using Reactjs
-        🌱 I’m currently working towards certifications in PSM 1 and Data Analytics
+        🌱 I’m currently upskilling in React Native and UX/UI
 
 #### 💃 When I'm not coding you can find me:
 
