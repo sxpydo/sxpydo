@@ -3,7 +3,7 @@
 I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) whilst learning React Native and TypeScript, with a curiousity for Cyber Security and UX/UI. I am very passionate about #WomeninTech, #TechForGood giving back to the community by being a Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
 
 #### 🔭 I’m currently working on updating my portfolio using Reactjs
-        🌱 I’m currently upskilling in React Native and UX/UI
+        🌱 I’m currently upskilling on Figma and re-building my portfolio
 
 #### 💃 When I'm not coding you can find me:
 
@@ -11,8 +11,7 @@ I am a Software Developer with [AND Digital](https://www.and.digital) who works 
 * _Living the circus life as a part time Aerialist_ 🤸🏾‍♂️
 * _Catching a flight to my next destination on my wishlist_ ✈️
 * _Babbling in French or Spanish at a language exchange_ 
-* _Getting lost in a book_ 📚
-* _Thinking of my new crafts project_ 🧶
+* _Thinking of my next knitting or crochet project_ 🧶
 * _Dancing the evening away to Romeo Santos_ 💃🏾
 * _Chilling with the neighbours cats_ 🐈🐈‍⬛
 * _Walking, hiking, being immersed with Nature_ 🍃
