@@ -1,6 +1,6 @@
 ### Hi there, I'm Shav 👋 
 
-I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) whilst learning React Native and TypeScript, with a curiousity for Cyber Security and UX/UI. I am very passionate about #WomeninTech, #TechForGood giving back to the community by being a Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
+I am a Software Developer with [AND Digital](https://www.and.digital) who works in Full Stack Development with MERN stack (Reactjs, Node.js and MongoDB) whilst learning React Native and TypeScript, with a curiousity for Cyber Security and UX/UI. I am very passionate about #WomeninTech, #TechForGood giving back to the community by being a Mentor and Teaching Assistant with [Coding Black Females](https://codingblackfemales.com/) for [Black Codher Bootcamp](https://blackcodher.com/) and advocating for equal and equitable representation in technology. 🤎 
 
 #### 🔭 I’m currently working on updating my portfolio using Reactjs
         🌱 I’m currently upskilling on Figma and re-building my portfolio
