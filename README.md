@@ -17,7 +17,7 @@ I am a Software Developer with [AND Digital](https://www.and.digital) who works 
 * _Being immersed with Nature followed by a walk or hike_ 🍃
 
 
-📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Instagram & Twitter: sxpydo
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado or Twitter: sxpydo
 
 Meanwhile, stay positive and be kind 🌞
 
