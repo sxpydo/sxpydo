@@ -7,10 +7,11 @@ I am a Software Developer with [AND Digital](https://www.and.digital) who works 
 
 #### 💃 When I'm not coding you can find me:
 
-* _Birdwatching from my living room window_ 🐦
+* _Birdwatching_ 🐦
 * _Catching flights to my next destination_ ✈️
-* _Babbling in French, Spanish or Romanian at a language exchange_ 
-* _Working on my current knitting or crochet project_ 🧶
+* _Babbling in French, Spanish or Romanian at a language exchange_
+* _Bouldering/Climbing_  
+* _Working on my next knitting or crochet project_ 🧶
 * _Dancing the evening away to Romeo Santos_ 💃🏾
 * _Chilling with the neighbourhood cats_ 🐈🐈‍⬛
 
