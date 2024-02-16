@@ -11,8 +11,6 @@ I have a background in Finance and Modern Languages, before pivoting into tech i
 <br /> <br />
 #### 🔭 I’m currently working on updating my portfolio using React & Gatsby
         🌱 I’m currently upskilling on Java and AWS
-<br />
-📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shavana-peynado
 
 <!--
 **sxpydo/sxpydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
