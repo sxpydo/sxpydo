@@ -13,8 +13,8 @@ I have a background in Finance and Modern Languages, before pivoting into tech i
 🏆 2024 Makers, Women in Software PowerList Longlist
 <br /> <br />
 #### 🔭 I’m currently working on updating my portfolio 
-        🌱 I’m currently upskilling on Python & SQL
-         ⚡️ Fun fact: I can speak 3 languages!
+#### 🌱 I’m currently upskilling on Python & SQL
+#### ⚡️ Fun fact: I can speak 3 languages!
 
 <!--
 **sxpydo/sxpydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
