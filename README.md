@@ -4,7 +4,7 @@
 ⚡ Mentor at [Leeds Trinity University](https://www.leedstrinity.ac.uk/) & [Coding Black Females](https://codingblackfemales.com/), Teaching Assistant for [Black Codher Bootcamp](https://blackcodher.com/).
 
 I have a background in Finance and Foreign Languages, before pivoting into tech in 2021. Specialising in MERN stack, but also have technical experience in Java, SQL, and AI. Outside of work, I pursue my passion for promoting DE&I, advocating for equal and equitable representation in technology, and teaching software development through organising Code & Chill events in Leeds. 
-I have delivered talks for companies including Ministry of Justice, Coding Black Females, AND Digital, BCS, and contribute to National Conferences like the Yorkshire Post's Digital and Data Conference. I have hosted and delivered courses on behalf of Black Codher and Coding Black Females.
+I have delivered talks for companies including Ministry of Justice, Coding Black Females, AND Digital, BCS, and contribute to National Conferences like the Yorkshire Post's Digital and Data Conference.
 
 ### 🏆 Awards and Recognition
 
