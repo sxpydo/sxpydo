@@ -15,7 +15,8 @@ I have delivered talks for companies including Ministry of Justice, Coding Black
 
 ### 🎤 Speaking and Community Engagement
 
-I'm a regular speaker at events and conferences, sharing my experiences and insights on diversity, equity, inclusion, and neurodiversity. My journey in tech is featured in Volume 4 of The Voices in the Shadow by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), inspiring future generations of Black women in technology.
+I'm a regular speaker at events and conferences, sharing my experiences and insights on diversity, equity, inclusion, and neurodiversity.
+Featured in 'The Voices in the Shadow' (Volume 4) by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), a book highlighting 51 influential Black women in UK tech. This publication empowers Black women and girls by showcasing successful career paths in the industry.
 
 ### 📚 Continuous Learning
 
