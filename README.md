@@ -33,7 +33,7 @@ I actively promote STEM education for young women, partnering with organisations
 ### 🔭 Currently I am focusing on...
 
 - Updating my portfolio
-- Upskilling in C#
+- Upskilling in C# & Data Science
 
 ### ⚡ Fun Facts
 
