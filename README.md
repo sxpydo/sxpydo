@@ -8,10 +8,10 @@ Community impact is at my core - I mentor for [Leeds Trinity University](https:/
 
 Featured in 'The Voices in the Shadow' (Volume 4) by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), a book highlighting 51 influential Black women in UK tech. This publication empowers Black women and girls by showcasing successful career paths in the industry. Have been recognised as “One to Watch” at the Leeds Digital Festival Awards 2023, Rising Star 2025 at the Global Queens Awards, and shortlisted for several industry accolades.
 
-🏆 2022 Black CodHer, Most Innovative Project Winner
-🏆 2023 Leeds Digital Festival, One to Watch Award Winner
-🏆 2024 Black Tech Achievements UK, Rising Star Shortlist
-🏆 2024 Black Talent Awards, STEM Category Shortlist
+🏆 2022 Black CodHer, Most Innovative Project Winner </br>
+🏆 2023 Leeds Digital Festival, One to Watch Award Winner </br>
+🏆 2024 Black Tech Achievements UK, Rising Star Shortlist </br>
+🏆 2024 Black Talent Awards, STEM Category Shortlist </br>
 🏆 2025 Global Queens Community Awards, Rising Star Winner
 
 I'm committed to fostering inclusivity and empowering others in the technology sector. Let's connect and explore how we can drive positive change in tech industry together! 💜
