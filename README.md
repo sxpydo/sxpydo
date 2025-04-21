@@ -1,39 +1,26 @@
-# Hi there, I'm Shav 👋
+# Buenas, Je suis Shav 👋
 
-👩🏾‍💻 Award-Winning Software Developer at [AND Digital](https://www.and.digital) <br />
-⚡ Mentor at [Leeds Trinity University](https://www.leedstrinity.ac.uk/) & [Coding Black Females](https://codingblackfemales.com/), Teaching Assistant for [Black Codher Bootcamp](https://blackcodher.com/).
+Multi award-winning Software Developer at [AND Digital](https://www.and.digital), I’m passionate about technology, diversity, and lifelong learning. As a French and Spanish graduate from the Open University (2024), I balanced full-time work and studies over nine years. After pivoting from Finance to Tech in 2021, I’ve specialised in the MERN stack with experience in Java, SQL, and AI, building responsive web applications and driving innovation.
 
-I have a background in Finance and Foreign Languages, before pivoting into tech in 2021. Specialising in MERN stack, but also have technical experience in Java, SQL, and AI. Outside of work, I pursue my passion for promoting DE&I, advocating for equal and equitable representation in technology, and teaching software development through organising Code & Chill events in Leeds. 
-I have delivered talks for companies including Ministry of Justice, Coding Black Females, AND Digital, BCS, and contribute to National Conferences like the Yorkshire Post's Digital and Data Conference.
+I’m an active public speaker, delivering talks for organisations like the Ministry of Justice, Coding Black Females, AND Digital, and BCS, and contributing to national conferences such as the Yorkshire Post’s Digital and Data Conference. As a proud UN Women UK CSW68 participant, I’m dedicated to amplifying underrepresented voices in tech.
 
-### 🏆 Awards and Recognition
+Community impact is at my core - I mentor for [Leeds Trinity University](https://www.leedstrinity.ac.uk/) & [Coding Black Females](https://codingblackfemales.com/), and have volunteered as a Teaching Assistant for [Black Codher Bootcamp](https://blackcodher.com/). I champion tech education for young women, partnering with Ahead Partnerships to introduce pupils to the industry through initiatives like GirlTech.
 
-- 2022 Black CodHer, Most Innovative Project Winner <br />
-- 2023 Leeds Digital Festival, One to Watch Award Winner <br />
-- 2024 Black Tech Achievements UK, Rising Star Shortlist <br />
-- 2024 Black Talent Awards, STEM Category Shortlist <br />
+Featured in 'The Voices in the Shadow' (Volume 4) by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), a book highlighting 51 influential Black women in UK tech. This publication empowers Black women and girls by showcasing successful career paths in the industry. Have been recognised as “One to Watch” at the Leeds Digital Festival Awards 2023, Rising Star 2025 at the Global Queens Awards, and shortlisted for several industry accolades.
 
-### 🎤 Speaking and Community Engagement
+🏆 2022 Black CodHer, Most Innovative Project Winner
+🏆 2023 Leeds Digital Festival, One to Watch Award Winner
+🏆 2024 Black Tech Achievements UK, Rising Star Shortlist
+🏆 2024 Black Talent Awards, STEM Category Shortlist
+🏆 2025 Global Queens Community Awards, Rising Star Winner
 
-I'm a regular speaker at events and conferences, sharing my experiences and insights on diversity, equity, inclusion, and neurodiversity.
-Featured in 'The Voices in the Shadow' (Volume 4) by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), a book highlighting 51 influential Black women in UK tech. This publication empowers Black women and girls by showcasing successful career paths in the industry.
-
-### 📚 Continuous Learning
-
-While excelling in my tech career, I'm also pursuing a part-time degree in French and Spanish with the Open University, showcasing my commitment to continuous learning and personal growth.
-
-### 🤝 Mentoring and Teaching
-
-I'm passionate about giving back to the tech community by mentoring and teaching software development. I volunteer as a Teaching Assistant for Black Codher, mentor for Coding Black Females, and guide final year Computer Science students at Leeds Trinity University.
-
-### 🌟 Diversity in STEM Advocacy
-
-I actively promote STEM education for young women, partnering with organisations like Ahead Partnerships to participate in workshops such as GirlTech, introducing young pupils to the tech industry.
+I'm committed to fostering inclusivity and empowering others in the technology sector. Let's connect and explore how we can drive positive change in tech industry together! 💜
 
 ### 🔭 Currently I am focusing on...
 
 - Updating my portfolio using React and TypeScript
-- Upskilling in C# and Springboot
+- Upskilling in C# and Angular
+- Creating an API using Springboot
 
 ### ⚡ Fun Facts
 
