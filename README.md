@@ -1,4 +1,4 @@
-# Buenas, Je suis Shav 👋
+# Hey, I'm Shav 👋
 
 Multi award-winning Software Developer at [AND Digital](https://www.and.digital), I’m passionate about technology, diversity, and lifelong learning. As a French and Spanish graduate from the Open University (2024), I balanced full-time work and studies over nine years. After pivoting from Finance to Tech in 2021, I’ve specialised in the MERN stack with experience in Java, SQL, and AI, building responsive web applications and driving innovation.
 
