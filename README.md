@@ -24,7 +24,7 @@ I'm committed to fostering inclusivity and empowering others in the technology s
 
 ### ⚡ Fun Facts
 
-I am trilingual and a retired circus artist! 🤸🏾‍♀️
+I am learning my 4th language, Mandarin and a retired circus artist! 🤸🏾‍♀️
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shavana-peynado/) to learn more about my journey and collaborations in the tech world!
 
