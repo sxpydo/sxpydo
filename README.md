@@ -19,12 +19,11 @@ I'm committed to fostering inclusivity and empowering others in the technology s
 ### 🔭 Currently I am focusing on...
 
 - Updating my portfolio using React and TypeScript
-- Upskilling in C# and Angular
-- Creating an API using Springboot
+- Upskilling in C#
 
 ### ⚡ Fun Facts
 
-I am learning my 4th language, Mandarin and a retired circus artist! 🤸🏾‍♀️
+I speak 3 languages, and I am learning Cantonese and Mandarin. Also, I am a retired circus artist! 🤸🏾‍♀️
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shavana-peynado/) to learn more about my journey and collaborations in the tech world!
 
