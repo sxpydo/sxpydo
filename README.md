@@ -1,31 +1,64 @@
 # Hey, I'm Shav 👋
 
-Multi award-winning Software Developer at [AND Digital](https://www.and.digital), I’m passionate about technology, diversity, and lifelong learning. As a French and Spanish graduate from the Open University (2024), I balanced full-time work and studies over nine years. After pivoting from Finance to Tech in 2021, I’ve specialised in the MERN stack with experience in Java, SQL, and AI, building responsive web applications and driving innovation.
+**Multi-Award Winning Software Developer** at [AND Digital](https://www.and.digital) with 3+ years of experience building accessible, full-stack digital solutions. After pivoting from Finance and graduating in French and Spanish (The Open University, 2024), I bridge the gap between complex logic and human-centric design. 
 
-I’m an active public speaker, delivering talks for organisations like the Ministry of Justice, Coding Black Females, AND Digital, and BCS, and contributing to national conferences such as the Yorkshire Post’s Digital and Data Conference. As a proud UN Women UK CSW68 participant, I’m dedicated to amplifying underrepresented voices in tech.
+I am deeply committed to **best practices**, **inclusive tech education**, and **mental health advocacy** within the industry - founding initiatives like the *Code & Chill* events in Leeds for women in tech.
 
-Community impact is at my core - I mentor for [Leeds Trinity University](https://www.leedstrinity.ac.uk/) & [Coding Black Females](https://codingblackfemales.com/), and have volunteered as a Teaching Assistant for [Black Codher Bootcamp](https://blackcodher.com/). I champion tech education for young women, partnering with Ahead Partnerships to introduce pupils to the industry through initiatives like GirlTech.
+---
 
-Featured in 'The Voices in the Shadow' (Volume 4) by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/), a book highlighting 51 influential Black women in UK tech. This publication empowers Black women and girls by showcasing successful career paths in the industry. Have been recognised as “One to Watch” at the Leeds Digital Festival Awards 2023, Rising Star 2025 at the Global Queens Awards, and shortlisted for several industry accolades.
+### 🛠️ Tech Stack & Skills
 
-🏆 2022 Black CodHer, Most Innovative Project Winner </br>
-🏆 2023 Leeds Digital Festival, One to Watch Award Winner </br>
-🏆 2024 Black Tech Achievements UK, Rising Star Shortlist </br>
-🏆 2024 Black Talent Awards, STEM Category Shortlist </br>
-🏆 2025 Global Queens Community Awards, Rising Star Winner
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **Specialisms** | Web Accessibility (A11y), AI/Machine Learning, Responsive Design |
 
-I'm committed to fostering inclusivity and empowering others in the technology sector. Let's connect and explore how we can drive positive change in tech industry together! 💜
+---
 
-### 🔭 Currently I am focusing on...
+### 🎤 Public Speaking & Workshops
+I am available for talks and panel discussions. My core topics include:
 
-- Updating my portfolio using React and TypeScript
-- Upskilling in C#
+* **Women in Tech:** Strategies for career longevity, overcoming imposter syndrome, and the impact of community-led mentorship.
+* **Pivoting to Tech:** Navigating the journey from non-traditional backgrounds into Software Engineering.
+* **Diversity & Representation:** Amplifying underrepresented voices and the power of community (UN Women UK CSW68 insights).
+* **Mental Health in Dev:** Creating supportive spaces and combating burnout in fast-paced tech environments.
+
+---
+
+### 🏆 Recognitions & Awards
+
+* ✨ **2025** Featured: *The Tech Women Celebration 50* (The Channel Co, Computing)
+* ✨ **2025** Longlist: *ComputerWeekly.com’s Most Influential Women in UK Tech*
+* 🏆 **2025** Winner: *Rising Star in STEAM* (Women in STEAM Excellence Awards)
+* 🏆 **2025** Winner: *Rising Star* (Global Queens Community Awards)
+* 🏆 **2023** Winner: *One to Watch* (Leeds Digital Festival)
+* 🏆 **2022** Winner: *Most Innovative Project* (Black CodHer)
+* 📖 Featured in **'The Voices in the Shadow' (Vol. 4)** by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/) highlighting 51 influential Black women in UK tech.
+
+---
+
+### 🔭 Currently focusing on...
+
+- Refining my portfolio using **React** and **TypeScript**.
+- Upskilling in **C#** and Backend Architecture.
+- 🧠 Exploring **Machine Learning** and its intersection with accessibility.
+
+---
 
 ### ⚡ Fun Facts
 
-I speak 3 languages, and I am learning Cantonese and Mandarin. Also, I am a retired circus artist! 🤸🏾‍♀️
+* 🌍 I speak 3 languages and am currently learning **Cantonese** and **Mandarin**.
+* 🤸🏾‍♀️ I am a retired circus artist! You can still find me upside down on the **Aerial Hoop**.
+* 🧶 When I'm not coding, I'm birdwatching, knitting, or experimenting in the kitchen (usually with a cat nearby).
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shavana-peynado/) to learn more about my journey and collaborations in the tech world!
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shavana-peynado/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 
 <!--
 **sxpydo/sxpydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
