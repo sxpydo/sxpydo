@@ -21,8 +21,7 @@ I am deeply committed to **best practices**, **inclusive tech education**, and *
 I am available for talks and panel discussions. My core topics include:
 
 * **Women in Tech:** Strategies for career longevity, overcoming imposter syndrome, and the impact of community-led mentorship.
-* **Pivoting to Tech:** Navigating the journey from non-traditional backgrounds into Software Engineering.
-* **Diversity & Representation:** Amplifying underrepresented voices and the power of community (UN Women UK CSW68 insights).
+* **Diversity & Representation:** Amplifying underrepresented voices and the power of community.
 * **Mental Health in Dev:** Creating supportive spaces and combating burnout in fast-paced tech environments.
 
 ---
@@ -42,7 +41,7 @@ I am available for talks and panel discussions. My core topics include:
 ### 🔭 Currently focusing on...
 
 - Refining my portfolio using **React** and **TypeScript**.
-- Upskilling in **C#** and Backend Architecture.
+- Upskilling in Backend Architecture and Java.
 - 🧠 Exploring **Machine Learning** and its intersection with accessibility.
 
 ---
