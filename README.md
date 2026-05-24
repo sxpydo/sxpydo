@@ -41,15 +41,15 @@ I am available for talks and panel discussions. My core topics include:
 ### 🔭 Currently focusing on...
 
 - Refining my portfolio using **React** and **TypeScript**.
-- Upskilling in Backend Architecture and Java.
-- 🧠 Exploring **Machine Learning** and its intersection with accessibility.
+- Upskilling in Security.
+- 🧠 Exploring **Electronical engineering** with Raspberry Pi.
 
 ---
 
 ### ⚡ Fun Facts
 
 * 🌍 I speak 3 languages and am currently learning **Cantonese** and **Mandarin**.
-* 🤸🏾‍♀️ I am a retired circus artist! You can still find me upside down on the **Aerial Hoop**.
+* 🤸🏾‍♀️ I am a retired circus artist! You can still find me upside down on the **Lyra**.
 * 🧶 When I'm not coding, I'm birdwatching, knitting, or experimenting in the kitchen (usually with a cat nearby).
 
 ---
