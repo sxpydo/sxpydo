@@ -40,7 +40,6 @@ I am available for talks and panel discussions. My core topics include:
 
 ### 🔭 Currently focusing on...
 
-- Refining my portfolio using **React** and **TypeScript**.
 - Upskilling in Security.
 - 🧠 Exploring **Electronical engineering** with Raspberry Pi.
 
