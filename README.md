@@ -8,26 +8,26 @@ I am deeply committed to **best practices**, **inclusive tech education**, and *
 
 ### 🏆 Recognitions & Awards
 
-* ✨ **2025** Featured: *The Tech Women Celebration 50* (The Channel Co, Computing)
-* ✨ **2025** Longlist: *ComputerWeekly.com's Most Influential Women in UK Tech*
-* 🏆 **2025** Winner: *Rising Star in STEAM* (Women in STEAM Excellence Awards)
-* 🏆 **2025** Winner: *Rising Star* (Global Queens Community Awards)
-* 🏆 **2023** Winner: *One to Watch* (Leeds Digital Festival)
-* 🏆 **2022** Winner: *Most Innovative Project* (Black CodHer)
-* 📖 Featured in **'The Voices in the Shadow' (Vol. 4)** by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/) highlighting 51 influential Black women in UK tech.
+- ✨ **2025** Featured: *The Tech Women Celebration 50* (The Channel Co, Computing)
+- ✨ **2025** Longlist: *ComputerWeekly.com's Most Influential Women in UK Tech*
+- 🏆 **2025** Winner: *Rising Star in STEAM* (Women in STEAM Excellence Awards)
+- 🏆 **2025** Winner: *Rising Star* (Global Queens Community Awards)
+- 🏆 **2023** Winner: *One to Watch* (Leeds Digital Festival)
+- 🏆 **2022** Winner: *Most Innovative Project* (Black CodHer)
+- 📖 Featured in **'The Voices in the Shadow' (Vol. 4)** by [GTA Black Women in Tech](https://theblackwomenintech.com/the-voices-in-the-shadow-4/) highlighting 51 influential Black women in UK tech.
 
 ---
 
 ### 🔭 Currently focusing on...
 
-- Upskilling in Security.
+- ⚡ Upskilling in Security.
 - 🧠 Exploring **Electronic engineering** with Raspberry Pi.
 
 ---
 
 ### ⚡ Fun Fact
 
-* 🌍 I speak 3 languages and am currently learning **Cantonese** and **Mandarin**.
+- 🌍 I speak 3 languages and am currently learning **Cantonese** and **Mandarin**.
 
 ---
 
