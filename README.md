@@ -27,7 +27,7 @@ I am deeply committed to **best practices**, **inclusive tech education**, and *
 
 ### ⚡ Fun Fact
 
-- 🌍 I speak 3 languages and am currently learning **Cantonese** and **Mandarin**.
+- 🌍 I speak 3 languages and am currently learning **Cantonese** and (re-learning) **Polish**.
 
 ---
 
